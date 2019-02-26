@@ -1,0 +1,14 @@
+/Users/afelix/Projects/HelloWorldApi/HelloWorldApi/bin/Debug/netcoreapp2.2/HelloWorldApi.deps.json
+/Users/afelix/Projects/HelloWorldApi/HelloWorldApi/bin/Debug/netcoreapp2.2/HelloWorldApi.runtimeconfig.json
+/Users/afelix/Projects/HelloWorldApi/HelloWorldApi/bin/Debug/netcoreapp2.2/HelloWorldApi.runtimeconfig.dev.json
+/Users/afelix/Projects/HelloWorldApi/HelloWorldApi/bin/Debug/netcoreapp2.2/HelloWorldApi.dll
+/Users/afelix/Projects/HelloWorldApi/HelloWorldApi/bin/Debug/netcoreapp2.2/HelloWorldApi.pdb
+/Users/afelix/Projects/HelloWorldApi/HelloWorldApi/obj/Debug/netcoreapp2.2/HelloWorldApi.csprojAssemblyReference.cache
+/Users/afelix/Projects/HelloWorldApi/HelloWorldApi/obj/Debug/netcoreapp2.2/HelloWorldApi.csproj.CoreCompileInputs.cache
+/Users/afelix/Projects/HelloWorldApi/HelloWorldApi/obj/Debug/netcoreapp2.2/HelloWorldApi.RazorAssemblyInfo.cache
+/Users/afelix/Projects/HelloWorldApi/HelloWorldApi/obj/Debug/netcoreapp2.2/HelloWorldApi.RazorAssemblyInfo.cs
+/Users/afelix/Projects/HelloWorldApi/HelloWorldApi/obj/Debug/netcoreapp2.2/HelloWorldApi.AssemblyInfoInputs.cache
+/Users/afelix/Projects/HelloWorldApi/HelloWorldApi/obj/Debug/netcoreapp2.2/HelloWorldApi.AssemblyInfo.cs
+/Users/afelix/Projects/HelloWorldApi/HelloWorldApi/obj/Debug/netcoreapp2.2/HelloWorldApi.RazorTargetAssemblyInfo.cache
+/Users/afelix/Projects/HelloWorldApi/HelloWorldApi/obj/Debug/netcoreapp2.2/HelloWorldApi.dll
+/Users/afelix/Projects/HelloWorldApi/HelloWorldApi/obj/Debug/netcoreapp2.2/HelloWorldApi.pdb
